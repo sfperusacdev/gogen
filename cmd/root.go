@@ -11,8 +11,8 @@ import (
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "gogen",
-	Short: "A brief description of your application",
+	Use:   "gen",
+	Short: "Just simple code generator",
 }
 
 func Execute() {

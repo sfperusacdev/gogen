@@ -6,6 +6,7 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/rs/xid v1.4.0
 	github.com/spf13/cobra v1.6.1
+	golang.org/x/crypto v0.11.0
 )
 
 require (
